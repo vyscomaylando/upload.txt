@@ -1,1 +1,3 @@
-google-site-verification: google11fe072fd1057ae5.html
+User-agent: *
+Allow: /
+Sitemap: https://alamanahislamicschool.sch.id/google/sitemap.xml
